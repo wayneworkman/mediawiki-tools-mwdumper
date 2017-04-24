@@ -5,7 +5,7 @@
   <name>mwdumper</name>
   <groupId>org.wikimedia</groupId>
   <artifactId>mwdumper</artifactId>
-  <version>1.25</version>
+  <version>1.26</version>
   <packaging>jar</packaging>
   <url>http://www.mediawiki.org/wiki/MWDumper</url>
 
